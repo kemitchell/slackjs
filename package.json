@@ -1,6 +1,6 @@
 {
   "name": "slackjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A nodejs module for the Slack Incoming Webhooks API",
   "main": "index.js",
   "scripts": {
