@@ -4,7 +4,7 @@ slackjs
 Node module for the Slack Incoming Webhooks API
 
 ```javascript
-var slack = require('./index');
+var slack = require('slackjs');
 
 slack.config({
   token: 'yourtoken',
