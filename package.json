@@ -1,0 +1,31 @@
+{
+  "name": "slackjs",
+  "version": "0.0.1",
+  "description": "A nodejs module for the Slack Incoming Webhooks API",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FancyPantsStats/slackjs.git"
+  },
+  "keywords": [
+    "slack",
+    "chat",
+    "bot"
+  ],
+  "author": "Brian Devins <badevins@gmail.com> (http://briandevins.com/)",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/FancyPantsStats/slackjs/issues"
+  },
+  "homepage": "https://github.com/FancyPantsStats/slackjs",
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "should": "^3.3.0"
+  },
+  "dependencies": {
+    "request": "^2.34.0"
+  }
+}
