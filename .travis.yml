@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+- '0.10'
+notifications:
+  slack:
+    rooms:
+      secure: ZbVBn91hofuLc6Ip1Lth3ZErNRcJfRM/+zHIp0cDPkasS3zIL5u4e26u9tSvD+pL2K/mlKKn3RxBAsM+U/WWbpbeGiGsGlZS5Hvzum4J5VX/pnGxnIKUJ+A/aVVDPo1OW6zNji6Ghey2YuDjqrnKHDhlKFPcecruvfGSKdxRkEI=
