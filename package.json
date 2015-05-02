@@ -16,7 +16,7 @@
     "bot"
   ],
   "author": "Brian Devins <badevins@gmail.com> (http://briandevins.com/)",
-  "license": "GPLv2",
+  "license": "GPL-2.0",
   "bugs": {
     "url": "https://github.com/FancyPantsStats/slackjs/issues"
   },
